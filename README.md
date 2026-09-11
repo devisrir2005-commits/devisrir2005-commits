@@ -1,183 +1,171 @@
-## Prompt for Creating My GitHub Profile README
+<div align="center">
+<img src="profile.jpg.jpeg">
 
-Create a **modern, animated, professional GitHub profile README** for **Devi Sri R**, an **Artificial Intelligence and Data Science student** from **Tiruchirappalli, Tamil Nadu, India**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:00F2FE&height=180&section=header&text=Devi%20Sri%20R&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Data%20Science%20%7C%20AI%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=65&descSize=17"/>
 
-The design should look like a **senior software engineer + AI researcher portfolio**, not a beginner student profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=0072FF&center=true&vCenter=true&width=700&lines=AI+Engineer+in+Progress;Java+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Building+Intelligent+Systems"/>
 
-### Theme & Style
+<br>
 
-* White futuristic theme
-* Glassmorphism + neon blue / cyan accents
-* Smooth SVG animations
-* Typing animation for headline
-* Animated gradient banner
-* Professional developer aesthetic similar to top open-source contributors
-* Mobile responsive
-* Clean spacing and section dividers
+<p>
+Building intelligent systems, scalable backend services, and data-driven applications with AI, Java, and modern development tools.
+</p>
 
-### Hero Section
+<a href="mailto:devisrir2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-0072FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/devi-sri-ravichandran-387baa333/">
+<img src="https://img.shields.io/badge/LinkedIn-0072FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/devisrir2005-commits">
+<img src="https://img.shields.io/badge/GitHub-0072FF?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Include a centered animated header with:
+</div>
 
-* Name: **Devi Sri R**
-* Role: **AI & Data Science Student | AI Engineer | ML Enthusiast**
-* Short tagline:
-  **Building intelligent systems, scalable backend services, and data-driven applications with AI, Java, and modern development tools.**
+---
 
-Add animated typing text with rotating titles:
+## `> About Me`
 
-* AI Engineer in Progress
-* Java Developer
-* Machine Learning Enthusiast
-* Open Source Contributor
+🎓 **B.Tech Artificial Intelligence & Data Science** student at **Indra Ganesan College of Engineering**, Tiruchirappalli, Tamil Nadu.
 
-### Contact Section
+I am passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Backend Development, Web Technologies, and Automation**.
 
-Include clickable badges for:
+I enjoy building real-world AI applications and scalable backend systems while continuously improving my analytical thinking, problem-solving, and software engineering skills.
 
-* Gmail: **[devisrir2005@gmail.com](mailto:devisrir@gmail.com)**
-* LinkedIn: **https://www.linkedin.com/in/devi-sri-ravichandran-387baa333/**
-* GitHub: **https://github.com/devisrir2005-commits**
+---
 
-Use stylish shields.io badges with consistent colors.
+## `> Tech Stack`
 
-### About Me Section
+### Languages
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 
-Write a professional summary based on these details:
+### Web
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-* B.Tech Artificial Intelligence and Data Science student
-* Studying at **Indra Ganesan College of Engineering**
-* Strong interest in **Artificial Intelligence, Deep Learning, Data Science, Backend Development, and Web Technologies**
-* Quick learner with analytical thinking and problem-solving skills
-* Enjoys building real-world AI applications and scalable backend systems
+### AI / ML
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 
-### Tech Stack
+### Backend & Tools
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 
-Create visually appealing badge groups for:
+---
 
-#### Programming Languages
+## `> Featured Projects`
 
-* Python
-* Java
-* C
+### AI Digital Employee `ONGOING`
 
-#### Web Technologies
+AI-powered automation system using **Generative AI, RAG, APIs, and n8n** to intelligently plan and execute repetitive business tasks with minimal human intervention.
 
-* HTML5
-* CSS3
-*javascript
-*react
-*bootstrap
+`Python` `RAG` `Generative AI` `n8n` `python-docx` `openpyxl` `pdfplumber` `Pandas` `PyMuPDF`
 
-#### AI / ML
+<a href="https://github.com/devisrir2005-commits/AI-Digital-Employee">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
-* TensorFlow
-* Keras
-* Scikit-learn
-* Pandas
-* NumPy
-* Matplotlib
+<a href="#">
+<img src="https://img.shields.io/badge/Live%20Demo-0072FF?style=for-the-badge&logo=googlechrome"/>
+</a>
 
-#### Backend & Tools
+### Car Parking Management System
 
-* mango db
-* Git
-* MySQL
+Automated parking management system using **Python and MySQL** for vehicle tracking, slot allocation, and real-time parking monitoring.
 
-Use colorful flat-square or for-the-badge style badges.
+`Python` `MySQL` `HTML` `CSS` `Bootstrap`
 
-### Featured Project Section
+<a href="#">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
-AI Digital Employee(on going project) 
+### Food Recommendation System
 
-• AI Digital Employee is an AI-powered automation system that uses Generative AI, RAG, APIs, and n8n to intelligently plan and 
-execute repetitive business tasks with minimal human intervention.
-Include tech badges:
+AI-powered recommendation system using **Machine Learning, Pandas, NumPy, Python, and Flask** to provide personalized food recommendations.
 
-`python-docx` `openpyxl` `pdfplumber` `Pandas` `PyMuPDF` 
+`Python` `Machine Learning` `Pandas` `NumPy` `Flask`
 
-Car Parking Management System 
+<a href="#">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
-● Designed an automated parking management system using Python and MySQL for vehicle tracking and slot allocation. 
-● Built a real-time monitoring interface ,enhancing parking efficiency and reducing manual errors. 
+---
 
-Food Recommendation System 
-• Developed an AI-powered food recommendation system using Python, Machine Learning, Pandas, NumPy, and Flask to deliver 
-personalized, real-time recommendations based on user preferences.
+## `> Experience`
 
+### Data Analytics Intern
+**Indian Nippon Electricals Limited (INEL), Hosur** — `JUN 2026`
 
-Add a mock **Live Demo** and **Repository** button style.
+Analyzed industrial data to generate performance insights and support data-driven decision-making in manufacturing.
 
-### Internship Experience Timeline
+`Power BI` `Python` `Excel` `SQL` `Statistics`
 
-Create a vertical timeline with icons for:
+### Python Fullstack Developer
+**ILIFE Technologies** — `JAN 2026`
 
-####Data Analytics Intern|Indian Nippon Electricals Limited(INEL),Hosur|JUN 2026 
-➢ Analyzed industrial data to generate performance insights and support data-driven decision-making in manufacturing.
+Developed Python-based full-stack applications integrating backend systems, databases, and web technologies.
 
-Highlight:
+`HTML` `CSS` `JavaScript` `Bootstrap` `Python` `MongoDB` `SQL`
 
-*powerbi
-*python
-*excel
-*sql
-*statistics
+---
 
+## `> GitHub Statistics`
 
-#### Python Fullstack Developer|ILIFE Technologies|JAN 2026 
-➢ Developed Python-based full-stack applications, integrating backend systems, databases, and web technologies. 
+<div align="center">
 
-Mention:
+<img src="https://github-readme-stats.vercel.app/api?username=devisrir2005-commits&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
 
-*HTML
-*CSS
-*JAVA SCRIPT
-*BOOTSTRAP
-*python
-*mango db
-*SQL
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devisrir2005-commits&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
+<br><br>
 
-### GitHub Statistics Section
+<img src="https://streak-stats.demolab.com?user=devisrir2005-commits&theme=tokyonight&hide_border=true" width="70%"/>
 
-Include animated GitHub widgets:
+<br><br>
 
-* GitHub Stats
-* Streak Stats
-* Top Languages
-* Contribution Graph
-* Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devisrir2005-commits&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
-Use a dark theme such as **tokyonight**, **radical**, or **github_dark**.
-### Achievements Section
+</div>
 
-Present as elegant cards:
+---
 
+## `> Achievements`
 
-* HackerHunt — Kalasalingam University
-* 6-Day C/Python Programming Course
+🏆 **HackerHunt — Kalasalingam University**
 
+💻 **6-Day C/Python Programming Course**
 
-### Coding Philosophy Section
+---
 
-Add a quote block:
+## `> Engineering Philosophy`
 
 > **"I believe great software combines intelligent algorithms, clean architecture, and continuous learning. Every project is an opportunity to transform ideas into impactful real-world solutions."**
 
-### Footer
+---
 
-Create an animated footer with:
+<div align="center">
 
-* "Thanks for visiting my profile"
-* A waving hand GIF
-* "Let’s build something amazing together 🚀"
-* Animated star / sparkles effect
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 
-### Extra Requirements
+### Thanks for visiting my profile!
 
-* Use **Markdown + HTML mixed formatting**
-* Include **SVG wave separators**
-* Add subtle **GIF animations** where appropriate
-* Keep the overall look **professional enough for recruiters and senior developers**
-* Avoid excessive emojis; use only elegant, tech-oriented icons
-* The final output should be a **complete ready-to-paste `README.md` file** for my GitHub profile repository (`devisri`).
+**Let's build something amazing together 🚀**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:00F2FE&height=100&section=footer"/>
+
+</div>
