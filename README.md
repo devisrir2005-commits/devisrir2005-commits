@@ -1,5 +1,5 @@
 <div align="center">
-<img src="profile.jpg.jpeg">
+<img src="profile.jpg.jpeg" style="width:50%">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:00F2FE&height=180&section=header&text=Devi%20Sri%20R&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20Data%20Science%20%7C%20AI%20Engineer%20%7C%20ML%20Enthusiast&descAlignY=65&descSize=17"/>
 
